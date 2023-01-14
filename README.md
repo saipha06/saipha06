@@ -8,7 +8,7 @@
 
 - 🌐 Know about my experiences using Personal Website [saipraveensriramoju.com](https://www.saipraveensriramoju.com)
 
-- ![linkedin-original 256x256](https://user-images.githubusercontent.com/22838367/210111074-70695d55-c4c9-4ef4-8d33-6a3b2e2b11cb.png) Know about my experiences using Linkedin Profile [Sai Praveen Sriramoju](https://www.linkedin.com/in/sai-praveen-s-60b3a61b7/)
+- ![linkedin-original 256x256](https://user-images.githubusercontent.com/22838367/210111074-70695d55-c4c9-4ef4-8d33-6a3b2e2b11cb.png) Know about my experiences using Linkedin Profile [Sai Praveen Sriramoju](https://www.linkedin.com/in/sai-phani-sriramoju-2010a11a6/)
 
 <br> 
 <h3 align="left">GitHub Stats:</h3>
