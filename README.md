@@ -17,8 +17,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saip7795&" alt="saip7795" /></p>
 
 ---
-![Sai Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=saip7795&count_private=true&show_icons=true&theme=synthwave)
+![Sai Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=saipha06&count_private=true&show_icons=true&theme=synthwave)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saip7795&layout=compact)](https://github.com/saip7795/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saipha06&layout=compact)](https://github.com/saipha06/github-readme-stats)
 
