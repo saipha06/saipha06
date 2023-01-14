@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sai Phani Sriramoju</h1>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=58A6FF&width=520&lines=Full+Stack+Developer+Based+in+Toronto++%F0%9F%92%BB" alt="Typing SVG" />
 </h3>
-
+<p align="center">
+<small>View Counter:</small><br>
+<img src="https://profile-counter.glitch.me/veerbia/count.svg" /> 
+</p>
 <h3 align="left">Connect with me:</h3>
 
 - 📫 How to reach me **sriramoju.saiphani@gmail.com**
